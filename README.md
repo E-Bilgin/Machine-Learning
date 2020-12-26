@@ -1,7 +1,7 @@
 # Machine-Learning
 
 <h1 align="center">
-   <img src="https://github.com/E-Bilgin/General/blob/main/1_bO6lRwKN8TlPhEbxNTHhAA.png" alt="Machine Learning with Python" title="achine Learning with Python" />
+   <img src="https://github.com/E-Bilgin/General/blob/main/1_bO6lRwKN8TlPhEbxNTHhAA.png" alt="Machine Learning with Python" title="Machine Learning with Python" />
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 <h2 id="introduction">Introduction</h2>
 
-The goal of this GitHub page is to provide you with everything you need to get started with Machine learning  
+The goal of this GitHub page is to provide you with everything you need to get started with Machine Learning  
 
 <h3 id="audience">Who is this repository for?</h3>
 
