@@ -1,7 +1,5 @@
 # Machine-Learning
 
-https://github.com/E-Bilgin/General/blob/main/1_bO6lRwKN8TlPhEbxNTHhAA.png
-
 <h1 align="center">
    <img src="https://github.com/E-Bilgin/General/blob/main/1_bO6lRwKN8TlPhEbxNTHhAA.png" alt="Machine Learning with Python" title="achine Learning with Python" />
 </h1>
