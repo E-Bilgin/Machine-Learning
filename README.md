@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Want to learn about all <strong>Machine Learning Models</strong>? <br>
+  Want to learn more about all <strong>Machine Learning Models</strong>? <br>
   This repository has everything that you need to get started! <br><br>
   <span style='font-size: 15pt'><strong>Author:</strong> Emre Bilgin</span>
  </p>
